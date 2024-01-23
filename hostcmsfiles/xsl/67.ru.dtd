@@ -1,0 +1,4 @@
+<!ENTITY labelSuccess "Спасибо Ваш ответ принят!">
+<!ENTITY labelDenied "Запрещено отображение результатов!">
+<!ENTITY labelAlreadyVote "Вы уже голосовали по данному опросу!">
+<!ENTITY labelTotal "Всего голосов:">

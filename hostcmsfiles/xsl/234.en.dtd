@@ -1,0 +1,39 @@
+<!ENTITY labelTitle "Карточка заказа">
+<!ENTITY labelFrom "от">
+<!ENTITY labelName "Наименование">
+<!ENTITY labelMarking "Артикул">
+<!ENTITY labelMeasure "Ед. изм.">
+<!ENTITY labelPrice "Цена">
+<!ENTITY labelQuantity "Кол-во">
+<!ENTITY labelTaxPrice "Ставка налога">
+<!ENTITY labelTax "Налог">
+<!ENTITY labelSum "Сумма">
+<!ENTITY labelLine1 "В том числе налог:">
+<!ENTITY labelTotal "Всего к оплате:">
+<!ENTITY labelPaymentSystem "Платежная система">
+<!ENTITY labelPaid "Оплачен">
+<!ENTITY labelCanceled "Отменен">
+<!ENTITY labelYes "Да">
+<!ENTITY labelNo "Нет">
+<!ENTITY labelOrderStatus "Статус заказа">
+<!ENTITY labelDeliveryType "Тип доставки:">
+<!ENTITY labelOrderDescription "Описание заказа:">
+<!ENTITY labelSystemInformation "Информация о заказе:">
+<!ENTITY labelService "Рекламный сервис:">
+<!ENTITY labelCampaign "Название рекламной кампании:">
+<!ENTITY labelAd "Рекламное объявление:">
+<!ENTITY labelSource "Место размещения:">
+<!ENTITY labelMedium "Средство маркетинга:">
+<!ENTITY labelContent "Дополнительная информация:">
+<!ENTITY labelTerm "Ключевые слова:">
+<!ENTITY labelSupplier "Поставщик">
+<!ENTITY labelKPP "ИНН/КПП">
+<!ENTITY labelPsrn "ОГРН">
+<!ENTITY labelAddress "Адрес">
+<!ENTITY labelPhone "Телефон">
+<!ENTITY labelFax "Факс">
+<!ENTITY labelEmail "E-Mail">
+<!ENTITY labelSite "Сайт">
+<!ENTITY labelCompany "Плательщик">
+<!ENTITY labelContact "Контактное лицо">
+<!ENTITY labelUser "Пользователь">

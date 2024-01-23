@@ -1,0 +1,19 @@
+<!ENTITY labelTag "Tag: ">
+<!ENTITY labelSortBy "Sort By">
+<!ENTITY labelSortByPriceLowToHigh "Price (Low to High)">
+<!ENTITY labelSortByPriceHighToLow "Price (High to Low)">
+<!ENTITY labelSortByName "Name">
+<!ENTITY labelPriceFrom "Price range:">
+<!ENTITY labelPriceTo "to:">
+<!ENTITY labelComparingItems "Comparing Items">
+<!ENTITY labelCompare "Compare">
+<!ENTITY labelShow "Show:">
+<!ENTITY labelFavoriteItems "My Favorite Items">
+<!ENTITY labelViewedItems "Viewed Items">
+<!ENTITY labelProducers "Producers">
+<!ENTITY labelBonuses "bonuses">
+<!ENTITY labelBuy "Buy">
+<!ENTITY labelAnyOption "Any option">
+<!ENTITY labelFrom "range:">
+<!ENTITY labelTo "to:">
+<!ENTITY labelApply "Apply">

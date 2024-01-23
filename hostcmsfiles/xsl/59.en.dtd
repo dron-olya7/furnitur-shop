@@ -1,0 +1,6 @@
+<!ENTITY labelLine1 "Здравствуйте,">
+<!ENTITY labelLine2 "Кто-то, возможно Вы, изменил пароль на сайте:">
+<!ENTITY labelLine3 "Новые регистрационные данные:">
+<!ENTITY labelLogin "Login:">
+<!ENTITY labelPassword "Password:">
+<!ENTITY labelAdministration "Administration">

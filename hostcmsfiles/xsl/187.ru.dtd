@@ -1,0 +1,16 @@
+<!ENTITY labelNone "В данном магазине нет объявлений, доступных для редактирования.">
+<!ENTITY labelAddItem "Добавить объявление">
+<!ENTITY labelMonth1 "января">
+<!ENTITY labelMonth2 "февраля">
+<!ENTITY labelMonth3 "марта">
+<!ENTITY labelMonth4 "апреля">
+<!ENTITY labelMonth5 "мая">
+<!ENTITY labelMonth6 "июня">
+<!ENTITY labelMonth7 "июля">
+<!ENTITY labelMonth8 "августа">
+<!ENTITY labelMonth9 "сентября">
+<!ENTITY labelMonth10 "октября">
+<!ENTITY labelMonth11 "ноября">
+<!ENTITY labelMonth12 "декабря">
+<!ENTITY labelIn "в">
+<!ENTITY labelDeleteAlert "Вы действительно хотите удалить объявление?">

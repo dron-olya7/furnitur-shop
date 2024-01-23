@@ -1,0 +1,7 @@
+<!ENTITY labelLine1 "Здравствуйте, куратор форума">
+<!ENTITY labelLine2 "В теме">
+<!ENTITY labelLine3 "было добавлено сообщение c заголовком">
+<!ENTITY labelLine4 "следующего содержания:">
+<!ENTITY labelAuthor "Автор сообщения:">
+<!ENTITY labelModerator "модератор">
+<!ENTITY labelHostcms "Система управления сайтом HostCMS">

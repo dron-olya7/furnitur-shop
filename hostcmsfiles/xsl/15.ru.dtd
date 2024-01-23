@@ -1,0 +1,12 @@
+<!ENTITY labelTitle "На сайт был добавлен комментарий:">
+<!ENTITY labelAuthor "Автор:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelSubject "Тема:">
+<!ENTITY labelReview "Комментарий:">
+<!ENTITY labelShop "Магазин:">
+<!ENTITY labelShopItem "Товар:">
+<!ENTITY labelLink "Ссылка:">
+<!ENTITY labelDate "Дата:">
+<!ENTITY labelIp "IP-адрес:">
+<!ENTITY labelHostcms "Система управления сайтом HostCMS">
+<!ENTITY labelHostcmsLink "http://www.hostcms.ru">

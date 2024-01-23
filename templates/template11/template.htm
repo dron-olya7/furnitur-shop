@@ -1,0 +1,65 @@
+<main class="content">
+	<div class="container">
+		<div class="breadcrumbs"><?php
+		// Вывод строки навигации
+		$Structure_Controller_Breadcrumbs = new Structure_Controller_Breadcrumbs(
+				Core_Entity::factory('Site', CURRENT_SITE)
+			);
+
+		$Structure_Controller_Breadcrumbs
+			->xsl(
+				Core_Entity::factory('Xsl')->getByName('ХлебныеКрошкиНовыйСайт2')
+			)
+			->show();
+		?></div>
+
+		<div class="row">
+			<div class="col-12 col-md-6 contact-req">
+				<p><strong>Режим работы</strong>: Заказы по телефону принимаются ежедневно с 9:00 до 21:00, без перерывов и выходных.</p>
+				<br>
+				<p><strong>Пункт выдачи</strong>: г. Екатеринбург, ул. Маршала Жукова, д. 117</p>
+				<br>
+				<h2>Реквизиты</h2>
+				<p><strong>Furniture Shop</strong></p>
+				<p></p>
+				<p><strong>ОГРН:</strong> 303617719300127</p>
+				<p><strong>ИНН:</strong> 616704912727</p>
+				<br>
+				<p><strong>Фактический адрес:</strong> 127001, г. Екатеринбург, ул. Маршала Жукова, д. 117</p>
+				<p><strong>Юридический адрес:</strong> 127001, г. Екатеринбург, ул. Маршала Тухачевского, д. 10</p>
+				<br>
+				<p>р/сч 40702810000000000000</p>
+				<p>в ПАО «Сбербанк России», г. Москва</p>
+				<p>к/сч 30101810000000000102</p>
+				<p>БИК 046000102</p>
+			</div>
+			<div class="col-12 col-md-6">
+				<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+				<script>
+					ymaps.ready(init);
+
+					function init() {
+						var myMap = new ymaps.Map("yandexMap", {
+								center: [55.684758, 37.738521],
+								zoom: 15
+							}, {
+								searchControlProvider: 'yandex#search'
+							});
+
+						myMap.geoObjects
+							.add(new ymaps.Placemark([55.684758, 37.738521], {
+								balloonContent: "Наша компания"
+							}, {
+								preset: 'islands#icon',
+								iconColor: "#e91e63"
+							}));
+					}
+				</script>
+
+				<div id="yandexMap"></div>
+			</div>
+		</div>
+
+		<?php Core_Page::instance()->execute()?>
+	</div>
+</main>

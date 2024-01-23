@@ -1,0 +1,4 @@
+<!ENTITY labelAddress "Адрес доставки">
+<!ENTITY labelShipmentMethod "Способ доставки">
+<!ENTITY labelPaymentMethod "Форма оплаты">
+<!ENTITY labelOrderConfirmation "Заказ оформлен">

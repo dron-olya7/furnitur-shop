@@ -1,0 +1,7 @@
+<!ENTITY labelTransaction "Account Transactions">
+<!ENTITY labelDate "Date">
+<!ENTITY labelAmount "Amount">
+<!ENTITY labelCurrency "Amount in shop currency">
+<!ENTITY labelOrder "Order">
+<!ENTITY labelDescription "Description">
+<!ENTITY labelTransactionAmount "Amount:">

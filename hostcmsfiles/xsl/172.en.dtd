@@ -1,0 +1,38 @@
+<!ENTITY labelAddItem "Add item">
+<!ENTITY labelName "Name">
+<!ENTITY labelNameTitle "Name is empty">
+<!ENTITY labelAmount "Amount">
+<!ENTITY labelText "Text">
+<!ENTITY labelPhoto "Photo">
+<!ENTITY labelAddFile "Add file...">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelCaptchaIdTitle "Captcha is empty">
+<!ENTITY labelSend "Send">
+<!ENTITY labelSorting "Sorting">
+<!ENTITY labelSorting1 "By price (ASC)">
+<!ENTITY labelSorting2 "By price (DESC)">
+<!ENTITY labelSorting3 "By name">
+<!ENTITY labelPriceFrom "Price from:">
+<!ENTITY labelPriceTo "to:">
+<!ENTITY labelApply "Apply">
+<!ENTITY labelComparedItems "Compared items">
+<!ENTITY labelCompare "Compare">
+<!ENTITY labelAny "Any option">
+<!ENTITY labelYes "Yes">
+<!ENTITY labelFrom "from:">
+<!ENTITY labelTo "to:">
+<!ENTITY labelMonth1 "January">
+<!ENTITY labelMonth2 "February">
+<!ENTITY labelMonth3 "March">
+<!ENTITY labelMonth4 "April">
+<!ENTITY labelMonth5 "May">
+<!ENTITY labelMonth6 "June">
+<!ENTITY labelMonth7 "July">
+<!ENTITY labelMonth8 "August">
+<!ENTITY labelMonth9 "September">
+<!ENTITY labelMonth10 "October">
+<!ENTITY labelMonth11 "November">
+<!ENTITY labelMonth12 "December">
+<!ENTITY labelIn "in">
+<!ENTITY labelNegotiable "negotiable">

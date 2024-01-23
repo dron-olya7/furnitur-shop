@@ -1,0 +1,25 @@
+<!ENTITY labelTitle "My messages">
+<!ENTITY labelWrite "Write message">
+<!ENTITY labelReciever "Reciever">
+<!ENTITY labelSubject "Subject">
+<!ENTITY labelMessage "Message">
+<!ENTITY labelSend "Send">
+<!ENTITY labelNone "У Вас нет сообщений!">
+<!ENTITY labelMonth1 "January">
+<!ENTITY labelMonth2 "February">
+<!ENTITY labelMonth3 "March">
+<!ENTITY labelMonth4 "April">
+<!ENTITY labelMonth5 "May">
+<!ENTITY labelMonth6 "June">
+<!ENTITY labelMonth7 "July">
+<!ENTITY labelMonth8 "August">
+<!ENTITY labelMonth9 "September">
+<!ENTITY labelMonth10 "October">
+<!ENTITY labelMonth11 "November">
+<!ENTITY labelMonth12 "December">
+<!ENTITY labelNominative "message">
+<!ENTITY labelGenitiveSingular "messages">
+<!ENTITY labelGenitivePlural "messages">
+<!ENTITY labelAnswer "Answer">
+<!ENTITY labelDeleteAlert "Вы уверены, что хотите Удалить?">
+<!ENTITY labelDelete "Delete">

@@ -1,0 +1,17 @@
+<!ENTITY labelTitleLine1 "User Not Found">
+<!ENTITY labelTitleLine2 "Пользователь незарегистрирован или не подтвердил регистрацию.">
+<!ENTITY labelDeleteFriend1 "Delete friend">
+<!ENTITY labelDeleteFriend2 "Unfollow">
+<!ENTITY labelAddFriend "Add friend">
+<!ENTITY labelName "Name:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelCountry "Country:">
+<!ENTITY labelCity "City:">
+<!ENTITY labelCompany "Company:">
+<!ENTITY labelPhone "Phone:">
+<!ENTITY labelFax "Fax:">
+<!ENTITY labelSite "Site:">
+<!ENTITY labelICQ "ICQ:">
+<!ENTITY labelRegistred "Registred:">
+<!ENTITY labelSubscribers "Subscribers:">
+<!ENTITY labelFriends "Friends:">

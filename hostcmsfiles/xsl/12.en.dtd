@@ -1,0 +1,16 @@
+<!ENTITY labelReviews "Reviews">
+<!ENTITY labelAddReviews "Add Review">
+<!ENTITY labelCommentName "Name">
+<!ENTITY labelCommentEmail "E-mail">
+<!ENTITY labelCommentPhone "Phone">
+<!ENTITY labelCommentSubject "Subject">
+<!ENTITY labelReview "Review">
+<!ENTITY labelGrade "Grade">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelNominative "view">
+<!ENTITY labelGenitiveSingular "views">
+<!ENTITY labelGenitivePlural "views">
+<!ENTITY labelReply "reply">
+<!ENTITY labelCommentLink "Comment link">
+<!ENTITY labelPublish "Publish">

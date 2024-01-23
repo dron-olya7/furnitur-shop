@@ -1,0 +1,18 @@
+<!ENTITY labelTagName "Tag">
+<!ENTITY labelAttributes "Informationsystem group attributes">
+<!ENTITY labelDownloadFile "Download file">
+<!ENTITY labelMonth1 "January">
+<!ENTITY labelMonth2 "February">
+<!ENTITY labelMonth3 "March">
+<!ENTITY labelMonth4 "April">
+<!ENTITY labelMonth5 "May">
+<!ENTITY labelMonth6 "June">
+<!ENTITY labelMonth7 "July">
+<!ENTITY labelMonth8 "August">
+<!ENTITY labelMonth9 "September">
+<!ENTITY labelMonth10 "October">
+<!ENTITY labelMonth11 "November">
+<!ENTITY labelMonth12 "December">
+<!ENTITY labelNominative "review">
+<!ENTITY labelGenitiveSingular "reviews">
+<!ENTITY labelGenitivePlural "reviews">

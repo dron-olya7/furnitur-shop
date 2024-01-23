@@ -1,0 +1,43 @@
+<!ENTITY labelLine1 "Quick registration">
+<!ENTITY labelLine2 "What are the benefits of registering on the site?">
+<!ENTITY labelLine3 "You get the opportunity to place orders directly on the website.">
+<!ENTITY labelLine4 "You will receive information about special store promotions available only to registered users.">
+<!ENTITY labelForm "Fill out the registration form">
+<!ENTITY labelData "Personal data">
+<!ENTITY labelNewUser "New User Registration">
+<!ENTITY labelLine5 "Please note that the entered contact information will be available on the user’s page to an unlimited number of people.">
+<!ENTITY labelRequired "Required fields are marked *.">
+<!ENTITY labelLogin "Login">
+<!ENTITY labelPassword "Password">
+<!ENTITY labelPassword2 "Repeat password">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelName "Name">
+<!ENTITY labelSurname "Surname">
+<!ENTITY labelPatronymic "Patronymic">
+<!ENTITY labelCompany "Company">
+<!ENTITY labelPhone "Phone">
+<!ENTITY labelFax "Fax">
+<!ENTITY labelSite "Site">
+<!ENTITY labelICQ "ICQ">
+<!ENTITY labelCountry "Country">
+<!ENTITY labelPostcode "Postcode">
+<!ENTITY labelCity "City">
+<!ENTITY labelAddress "Address">
+<!ENTITY labelMaillist "Maillists">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelChange "Change">
+<!ENTITY labelRegister "Register">
+<!ENTITY labelText "Text">
+<!ENTITY labelSubscribe "subscribe">
+<!ENTITY labelDeleteAlert "Are you sure you want to delete?">
+<!ENTITY labelMessageWrongCaptcha "The captcha-code was entered incorrectly!">
+<!ENTITY labelMessageWrongEmail "Invalid email address entered!">
+<!ENTITY labelMessageAntispam "The user cannot be registered, prohibited data!">
+<!ENTITY labelMessageRepeatPasswordIncorrect "The repeated password was entered incorrectly!">
+<!ENTITY labelMessageUserWithEmailAlreadyExistst "The user with the specified email address has been registered previously!">
+<!ENTITY labelMessageUserWithLoginAlreadyExists "The user with the specified login has been registered previously!">
+<!ENTITY labelMessageRequiredFieldsNotFilled "Please fill in all required parameters!">
+<!ENTITY labelMessageWrongCsrf "The form is out of date, please refresh the page and log in again!">
+<!ENTITY labelSuccessfulRegistration "<h1>Thank you for registering</h1><p>To continue working, you must confirm the registration of your data. An email has been sent to your address containing a link to confirm your registration.</p> <p>If your browser supports automatic redirection after 3 seconds you will go to the page <a href=&#34;../&#34;>user authorization</a>.</p><script type=&#34;text/javascript&#34;>setTimeout(function(){ location = '../' }, 3000);</script>">
+<!ENTITY labelSuccessfulUpdate "<h1>Your personal data has been successfully changed</h1><p>If your browser supports automatic redirection after 3 seconds you will go to the page <a href=&#34;../&#34;>user account</a>.</p><script type=&#34;text/javascript&#34;>setTimeout(function(){ location = '../' }, 3000);</script>">

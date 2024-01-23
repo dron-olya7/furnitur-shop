@@ -1,0 +1,10 @@
+<!ENTITY labelAmount "Amount:">
+<!ENTITY labelNegotiable "negotiable">
+<!ENTITY labelYes "Yes">
+<!ENTITY labelNo "No">
+<!ENTITY labelWeight "Weight:">
+<!ENTITY labelRest "Rest:">
+<!ENTITY labelProducer "Producer:">
+<!ENTITY labelNominative "view">
+<!ENTITY labelGenitiveSingular "views">
+<!ENTITY labelGenitivePlural "views">

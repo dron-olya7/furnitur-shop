@@ -1,0 +1,18 @@
+<main class="content">
+	<div class="container">
+		<div class="breadcrumbs"><?php
+		// Вывод строки навигации
+		$Structure_Controller_Breadcrumbs = new Structure_Controller_Breadcrumbs(
+				Core_Entity::factory('Site', CURRENT_SITE)
+			);
+
+		$Structure_Controller_Breadcrumbs
+			->xsl(
+				Core_Entity::factory('Xsl')->getByName('ХлебныеКрошкиНовыйСайт2')
+			)
+			->show();
+		?></div>
+
+		<?php Core_Page::instance()->execute()?>
+	</div>
+</main>

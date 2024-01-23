@@ -1,0 +1,23 @@
+<!ENTITY labelTitle "Мои заказы">
+<!ENTITY labelNone "Список заказов пуст.">
+<!ENTITY labelOrder "Заказ">
+<!ENTITY labelFrom "от">
+<!ENTITY labelPrint "Распечатать бланк">
+<!ENTITY labelPaid "Заказ оплачен">
+<!ENTITY labelCanceled "Заказ отменен.">
+<!ENTITY labelNotPaid "Заказ не оплачен.">
+<!ENTITY labelCancelOrder "Отменить заказ">
+<!ENTITY labelChange "изменить форму оплаты">
+<!ENTITY labelRepeat "повторить заказ">
+<!ENTITY labelStatus "Статус:">
+<!ENTITY labelAddress "Адрес:">
+<!ENTITY labelPhone "Телефон:">
+<!ENTITY labelDelivery "Доставка:">
+<!ENTITY labelDeliveryInfo "Информация об отправлении:">
+<!ENTITY labelName "Наименование">
+<!ENTITY labelPrice "Цена">
+<!ENTITY labelQuantity "Количество">
+<!ENTITY labelAmount "Стоимость">
+<!ENTITY labelTotal "Итого:">
+<!ENTITY labelCancelAlert "Вы действительно хотите отменить заказ?">
+<!ENTITY labelRepeatAlert "Вы действительно хотите повторить заказ?">

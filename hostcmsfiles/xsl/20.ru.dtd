@@ -1,0 +1,19 @@
+<!ENTITY labelDownload "Скачать">
+<!ENTITY labelReadMore "Читать дальше:">
+<!ENTITY labelReviews "Комментарии">
+<!ENTITY labelAddReview "Добавить комментарий">
+<!ENTITY labelReply "ответить">
+<!ENTITY labelReviewLink "Ссылка на комментарий">
+<!ENTITY labelCommentName "Имя">
+<!ENTITY labelCommentEmail "E-mail">
+<!ENTITY labelCommentPhone "Телефон">
+<!ENTITY labelCommentSubject "Тема">
+<!ENTITY labelReview "Комментарий">
+<!ENTITY labelGrade "Оценка">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelDownloadFile "Скачать файл">
+<!ENTITY labelNominative "просмотр">
+<!ENTITY labelGenitiveSingular "просмотра">
+<!ENTITY labelGenitivePlural "просмотров">
+<!ENTITY labelPublish "Опубликовать">

@@ -1,0 +1,35 @@
+<!ENTITY labelForumsList "Список форумов">
+<!ENTITY labelSubject "Тема:">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelWelcome "Добро пожаловать,">
+<!ENTITY labelAuthorization "Авторизация">
+<!ENTITY labelRegistered "Зарегистрированный пользователь">
+<!ENTITY labelNewUser "Новый пользователь">
+<!ENTITY labelError1 "Введен некорректный электронный адрес">
+<!ENTITY labelError2 "Пользователь с указанным электронным адресом зарегистрирован ранее">
+<!ENTITY labelError3 "Пользователь с указанным логином зарегистрирован ранее">
+<!ENTITY labelError4 "Заполните, пожалуйста, все обязательные параметры">
+<!ENTITY labelLogin "Логин:">
+<!ENTITY labelPassword "Пароль:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelEnter "Войти">
+<!ENTITY labelAccount "Кабинет пользователя">
+<!ENTITY labelModerator "Модератор">
+<!ENTITY labelGuest "Гость">
+<!ENTITY labelRegistrationDate "Регистрация:">
+<!ENTITY labelQuote "Цитировать выделенное">
+<!ENTITY labelProfile "Профиль">
+<!ENTITY labelCountMessages "Сообщений:">
+<!ENTITY labelDate "Дата создания:">
+<!ENTITY labelEnterNumber "Введите число, которое указано выше.">
+<!ENTITY labelAddMessage "Добавить сообщение">
+<!ENTITY labelSignUp "Зарегистрироваться">
+<!ENTITY labelEdit "Редактировать">
+<!ENTITY labelDeleteTopicAlert "Вы уверены, что хотите удалить тему?">
+<!ENTITY labelDeleteMessageAlert "Вы уверены, что хотите удалить сообщение?">
+<!ENTITY labelDeleteTopic "Удалить тему">
+<!ENTITY labelDelete "Удалить">
+<!ENTITY labelAnswer "Ответить">
+<!ENTITY labelUnsubscribe "Отменить подписку">
+<!ENTITY labelSubscribe "Подписаться">

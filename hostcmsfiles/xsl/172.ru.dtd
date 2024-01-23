@@ -1,0 +1,38 @@
+<!ENTITY labelAddItem "Добавить объявление в этот раздел">
+<!ENTITY labelName "Заголовок">
+<!ENTITY labelNameTitle "Заполните поле Заголовок">
+<!ENTITY labelAmount "Цена">
+<!ENTITY labelText "Текст объявления">
+<!ENTITY labelPhoto "Фото">
+<!ENTITY labelAddFile "Ещё файл...">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelCaptchaIdTitle "Введите число, которое указано выше.">
+<!ENTITY labelSend "Отправить">
+<!ENTITY labelSorting "Сортировать">
+<!ENTITY labelSorting1 "По цене (сначала дешевые)">
+<!ENTITY labelSorting2 "По цене (сначала дорогие)">
+<!ENTITY labelSorting3 "По названию">
+<!ENTITY labelPriceFrom "Цена от:">
+<!ENTITY labelPriceTo "до:">
+<!ENTITY labelApply "Применить">
+<!ENTITY labelComparedItems "Сравниваемые элементы">
+<!ENTITY labelCompare "Сравнить товары">
+<!ENTITY labelAny "Другие варианты">
+<!ENTITY labelYes "Да">
+<!ENTITY labelFrom "от:">
+<!ENTITY labelTo "до:">
+<!ENTITY labelMonth1 "января">
+<!ENTITY labelMonth2 "февраля">
+<!ENTITY labelMonth3 "марта">
+<!ENTITY labelMonth4 "апреля">
+<!ENTITY labelMonth5 "мая">
+<!ENTITY labelMonth6 "июня">
+<!ENTITY labelMonth7 "июля">
+<!ENTITY labelMonth8 "августа">
+<!ENTITY labelMonth9 "сентября">
+<!ENTITY labelMonth10 "октября">
+<!ENTITY labelMonth11 "ноября">
+<!ENTITY labelMonth12 "декабря">
+<!ENTITY labelIn "в">
+<!ENTITY labelNegotiable "договорная">

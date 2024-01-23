@@ -1,0 +1,20 @@
+<!ENTITY labelPaymentDetails "Реквизиты">
+<!ENTITY labelAmount "Сумма платежа:">
+<!ENTITY labelCountry "Страна:">
+<!ENTITY labelRegion "Область:">
+<!ENTITY labelCity "Город:">
+<!ENTITY labelDistrict "Район города:">
+<!ENTITY labelPostcode "Индекс:">
+<!ENTITY labelAddressLine1 "Улица, дом, квартира:">
+<!ENTITY labelAddressLine2 "(город, если не выбраны)">
+<!ENTITY labelName "Фамилия, Имя, Отчество:">
+<!ENTITY labelCompany "Компания:">
+<!ENTITY labelPhone "Телефон:">
+<!ENTITY labelFax "Факс:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelReview "Комментарий:">
+<!ENTITY labelShopPaymentSystemLine1 "Отсутствуют платежные системы!">
+<!ENTITY labelShopPaymentSystemLine2 "Оформление заказа невозможно, свяжитесь с администрацией магазина.">
+<!ENTITY labelPayForm "Форма оплаты">
+<!ENTITY labelDescription "Описание">
+<!ENTITY labelNext "Далее →">

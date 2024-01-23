@@ -1,0 +1,9 @@
+<!ENTITY labelMessageWrongUser "Пользователь с такими параметрами не зарегистрирован или на указанный e-mail не может быть отправлено письмо.">
+<!ENTITY labelMessageWrongCsrf "Форма устарела, обновите страницу и повторите вход!">
+<!ENTITY labelLogin "Пользователь:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelRestoreTitle "Восстановление пароля">
+<!ENTITY labelRestore "Восстановить">
+<!ENTITY labelNewPasswordTitle "Восстановление пароля прошло успешно">
+<!ENTITY labelNewPasswordTextLine1 "В Ваш адрес отправлено письмо, содержащее Ваш новый пароль.">
+<!ENTITY labelNewPasswordTextLine2 'Если Ваш браузер поддерживает автоматическое перенаправление через 3 секунды Вы перейдёте на страницу <a href="../">идентификации пользователя</a>. Если Вы не хотите ждать перейдите по соответствующей ссылке.'>

@@ -1,0 +1,12 @@
+<!ENTITY labelAddress "Address">
+<!ENTITY labelShipmentMethod "Shipment Method">
+<!ENTITY labelPaymentMethod "Payment Method">
+<!ENTITY labelOrderConfirmation "Order Confirmation">
+<!ENTITY labelLine1 "По выбранным Вами условиям доставка не возможна, заказ будет оформлен без доставки.">
+<!ENTITY labelLine2 "Уточнить данные о доставке Вы можете, связавшись с представителем нашей компании.">
+<!ENTITY labelDescription "Description">
+<!ENTITY labelDeliveryPrice "Delivery price">
+<!ENTITY labelItemsAmount "Items amount">
+<!ENTITY labelTotal "Total">
+<!ENTITY labelNext "Далее →">
+<!ENTITY labelType "Shipment Method">

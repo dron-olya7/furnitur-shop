@@ -1,0 +1,13 @@
+<!ENTITY labelHelpdeskWorktime "Helpdesk worktime">
+<!ENTITY labelHelpdesk "Helpdesk">
+<!ENTITY labelWorktime "Worktime">
+<!ENTITY labelMonday "Monday">
+<!ENTITY labelTuesday "Tuesday">
+<!ENTITY labelWednesday "Wednesday">
+<!ENTITY labelThursday "Thursday">
+<!ENTITY labelFriday "Friday">
+<!ENTITY labelSaturday "Saturday">
+<!ENTITY labelSunday "Sunday">
+<!ENTITY labelWorktime0 "Выходные.">
+<!ENTITY labelWorktime1 "Рабочее время.">
+<!ENTITY labelWorktime2 "Текущий период.">

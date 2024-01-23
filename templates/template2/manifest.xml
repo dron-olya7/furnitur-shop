@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<section>
+		<caption lng="en">Main</caption>
+		<caption lng="ru">Основные</caption>
+		<option name="font-family">
+			<caption lng="en">Font Family</caption>
+			<caption lng="ru">Шрифт</caption>
+		</option>
+		<option name="font-size">
+			<caption lng="en">Font Size</caption>
+			<caption lng="ru">Размер шрифта</caption>
+		</option>
+		<option name="line-height">
+			<caption lng="en">Line Height</caption>
+			<caption lng="ru">Межстрочный интервал</caption>
+		</option>
+		<option name="color" type="color">
+			<caption lng="en">Font Color</caption>
+			<caption lng="ru">Цвет шрифта</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Top panel</caption>
+		<caption lng="ru">Верхняя панель</caption>
+		<option name="top-panel-gradient-from" type="color">
+			<caption lng="en">Gradient From</caption>
+			<caption lng="ru">Градиент от</caption>
+		</option>
+		<option name="top-panel-gradient-to" type="color">
+			<caption lng="en">Gradient To</caption>
+			<caption lng="ru">Градиент до</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Logo</caption>
+		<caption lng="ru">Логотип</caption>
+		<option name="header-logo-font-size">
+			<caption lng="en">Font Size</caption>
+			<caption lng="ru">Размер шрифта</caption>
+		</option>
+		<option name="header-logo-font-weight">
+			<caption lng="en">Font Weight</caption>
+			<caption lng="ru">Толщина шрифта</caption>
+		</option>
+		<option name="header-logo-color" type="color">
+			<caption lng="en">Сolor</caption>
+			<caption lng="ru">Цвет</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Main menu</caption>
+		<caption lng="ru">Основное меню</caption>
+		<option name="main-menu-link-color" type="color">
+			<caption lng="en">Link Color</caption>
+			<caption lng="ru">Цвет ссылок</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Categories menu</caption>
+		<caption lng="ru">Меню категорий</caption>
+		<option name="shop-menu-background-color" type="color">
+			<caption lng="en">Background Color</caption>
+			<caption lng="ru">Цвет фона</caption>
+		</option>
+		<option name="shop-menu-link-color" type="color">
+			<caption lng="en">Link Color</caption>
+			<caption lng="ru">Цвет ссылок</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Breadcrumbs</caption>
+		<caption lng="ru">Хлебные крошки</caption>
+		<option name="breadcrumbs-color" type="color">
+			<caption lng="en">Breadcrumbs color</caption>
+			<caption lng="ru">Цвет хлебных крошек</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Marking</caption>
+		<caption lng="ru">Артикул</caption>
+		<option name="marking-color" type="color">
+			<caption lng="en">Marking color</caption>
+			<caption lng="ru">Цвет артикула</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Tabs</caption>
+		<caption lng="ru">Табы товара</caption>
+		<option name="tab-background-color" type="color">
+			<caption lng="en">Background Сolor</caption>
+			<caption lng="ru">Цвет фона</caption>
+		</option>
+		<option name="tab-link-color" type="color">
+			<caption lng="en">Сolor</caption>
+			<caption lng="ru">Цвет</caption>
+		</option>
+		<option name="tab-link-count-color" type="color">
+			<caption lng="en">Count Сolor</caption>
+			<caption lng="ru">Цвет баджа</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Colors</caption>
+		<caption lng="ru">Цвета</caption>
+		<option name="primary-color" type="color">
+			<caption lng="en">Primary Color</caption>
+			<caption lng="ru">Первый цвет</caption>
+		</option>
+		<option name="secondary-color" type="color">
+			<caption lng="en">Secondary Color</caption>
+			<caption lng="ru">Второй цвет</caption>
+		</option>
+		<option name="third-color" type="color">
+			<caption lng="en">Third Color</caption>
+			<caption lng="ru">Третий цвет</caption>
+		</option>
+		<option name="fourth-color" type="color">
+			<caption lng="en">Fourth Color</caption>
+			<caption lng="ru">Четвертый цвет</caption>
+		</option>
+		<option name="fifth-color" type="color">
+			<caption lng="en">Fifth Color</caption>
+			<caption lng="ru">Пятый цвет</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Maillist</caption>
+		<caption lng="ru">Рассылка</caption>
+		<option name="newsletter-background-gradient-from" type="color">
+			<caption lng="en">Gradient From</caption>
+			<caption lng="ru">Градиент от</caption>
+		</option>
+		<option name="newsletter-background-gradient-to" type="color">
+			<caption lng="en">Gradient To</caption>
+			<caption lng="ru">Градиент до</caption>
+		</option>
+	</section>
+	<section>
+		<caption lng="en">Footer</caption>
+		<caption lng="ru">Подвал</caption>
+		<option name="footer-background-color" type="color">
+			<caption lng="en">Footer Background</caption>
+			<caption lng="ru">Фон подвала</caption>
+		</option>
+		<option name="footer-menu-link-color" type="color">
+			<caption lng="en">Menu link color</caption>
+			<caption lng="ru">Цвет ссылок меню</caption>
+		</option>
+		<option name="footer-address-color" type="color">
+			<caption lng="en">Address color</caption>
+			<caption lng="ru">Цвет адреса</caption>
+		</option>
+		<option name="footer-address-link-color" type="color">
+			<caption lng="en">Address link color</caption>
+			<caption lng="ru">Цвет ссылок адреса</caption>
+		</option>
+	</section>
+</manifest>

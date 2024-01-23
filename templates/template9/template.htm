@@ -1,0 +1,28 @@
+<div class="shop">
+	<?php
+	// Вывод строки навигации
+	$Structure_Controller_Breadcrumbs = new Structure_Controller_Breadcrumbs(
+			Core_Entity::factory('Site', CURRENT_SITE)
+		);
+
+	$Structure_Controller_Breadcrumbs
+		->xsl(
+			Core_Entity::factory('Xsl')->getByName('ХлебныеКрошкиМагазинСайт2')
+		)
+		->show();
+	?>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 d-print-none">
+				<?php
+				// Левый блок
+				$this->showSection('left_block');
+				?>
+			</div>
+			<div class="col-lg-9 products-right-block col-print-12">
+				<?php Core_Page::instance()->execute()?>
+			</div>
+		</div>
+	</div>
+</div>

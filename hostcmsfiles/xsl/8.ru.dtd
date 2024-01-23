@@ -1,0 +1,19 @@
+<!ENTITY labelReadMore "Читать дальше:">
+<!ENTITY labelAttributes "Атрибуты">
+<!ENTITY labelComments "Комментарии">
+<!ENTITY labelAddComment "Добавить комментарий">
+<!ENTITY labelReply "ответить">
+<!ENTITY labelShare "Ссылка на комментарий">
+<!ENTITY labelName "Имя">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelPhone "Телефон">
+<!ENTITY labelSubject "Тема">
+<!ENTITY labelComment "Комментарий">
+<!ENTITY labelRating "Оценка">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelPublish "Опубликовать">
+<!ENTITY labelDownloadFile "Скачать файл">
+<!ENTITY labelNominative "просмотр">
+<!ENTITY labelGenitiveSingular "просмотра">
+<!ENTITY labelGenitivePlural "просмотров">

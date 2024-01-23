@@ -1,0 +1,7 @@
+<!ENTITY labelTransaction "Движение по лицевому счету">
+<!ENTITY labelDate "Дата">
+<!ENTITY labelAmount "Сумма">
+<!ENTITY labelCurrency "В валюте магазина">
+<!ENTITY labelOrder "Заказ">
+<!ENTITY labelDescription "Описание">
+<!ENTITY labelTransactionAmount "Остаток:">

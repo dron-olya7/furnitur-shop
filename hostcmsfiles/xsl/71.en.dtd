@@ -1,0 +1,8 @@
+<!ENTITY labelTitle "Seller">
+<!ENTITY labelContact "Contact:">
+<!ENTITY labelAddress "Address:">
+<!ENTITY labelPhone "Phone:">
+<!ENTITY labelFax "Fax:">
+<!ENTITY labelSite "Site:">
+<!ENTITY labelEmail "E-Mail:">
+<!ENTITY labelTIN "TIN:">

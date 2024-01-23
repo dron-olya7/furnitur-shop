@@ -1,0 +1,9 @@
+<!ENTITY labelSorting "Сортировать">
+<!ENTITY labelSorting1 "По цене (сначала дешевые)">
+<!ENTITY labelSorting2 "По цене (сначала дорогие)">
+<!ENTITY labelSorting3 "По названию">
+<!ENTITY labelPriceFrom "Цена от:">
+<!ENTITY labelPriceTo "до:">
+<!ENTITY labelAny "Любой вариант">
+<!ENTITY labelFrom "от:">
+<!ENTITY labelTo "до:">

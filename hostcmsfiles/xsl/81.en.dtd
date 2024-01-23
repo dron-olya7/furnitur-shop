@@ -1,0 +1,9 @@
+<!ENTITY labelAddress "Address">
+<!ENTITY labelShipmentMethod "Shipment Method">
+<!ENTITY labelPaymentMethod "Payment Method">
+<!ENTITY labelOrderConfirmation "Order Confirmation">
+<!ENTITY labelDeliveryAddress "Delivery address">
+<!ENTITY labelDeliveryMethod "Delivery method">
+<!ENTITY labelFormPayment "Form of payment">
+<!ENTITY labelDeliveryDetails "Delivery Details">
+<!ENTITY labelTitleBlank "Your order is issued">

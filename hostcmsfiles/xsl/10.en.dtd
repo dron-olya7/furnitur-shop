@@ -1,0 +1,8 @@
+<!ENTITY labelTagName "Tag">
+<!ENTITY labelAddItem "Add Item">
+<!ENTITY labelCommentName "Name">
+<!ENTITY labelCommentEmail "E-mail">
+<!ENTITY labelCommentSubject "Subject">
+<!ENTITY labelCommentText "Text">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">

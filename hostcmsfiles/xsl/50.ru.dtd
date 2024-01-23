@@ -1,0 +1,18 @@
+<!ENTITY labelTag "Метка">
+<!ENTITY labelAttributes "Атрибуты группы инфоэлементов">
+<!ENTITY labelDownloadFile "Скачать файл">
+<!ENTITY labelMonth1 "января">
+<!ENTITY labelMonth2 "февраля">
+<!ENTITY labelMonth3 "марта">
+<!ENTITY labelMonth4 "апреля">
+<!ENTITY labelMonth5 "мая">
+<!ENTITY labelMonth6 "июня">
+<!ENTITY labelMonth7 "июля">
+<!ENTITY labelMonth8 "августа">
+<!ENTITY labelMonth9 "сентября">
+<!ENTITY labelMonth10 "октября">
+<!ENTITY labelMonth11 "ноября">
+<!ENTITY labelMonth12 "декабря">
+<!ENTITY labelNominative "комментарий">
+<!ENTITY labelGenitiveSingular "комментария">
+<!ENTITY labelGenitivePlural "комментариев">

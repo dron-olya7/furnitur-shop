@@ -1,0 +1,13 @@
+<!ENTITY labelHelpdeskWorktime "Режим работы службы поддержки">
+<!ENTITY labelHelpdesk "Служба поддержки">
+<!ENTITY labelWorktime "Режим работы">
+<!ENTITY labelMonday "Понедельник">
+<!ENTITY labelTuesday "Вторник">
+<!ENTITY labelWednesday "Среда">
+<!ENTITY labelThursday "Четверг">
+<!ENTITY labelFriday "Пятница">
+<!ENTITY labelSaturday "Суббота">
+<!ENTITY labelSunday "Воскресенье">
+<!ENTITY labelWorktime0 "Выходные.">
+<!ENTITY labelWorktime1 "Рабочее время.">
+<!ENTITY labelWorktime2 "Текущий период.">

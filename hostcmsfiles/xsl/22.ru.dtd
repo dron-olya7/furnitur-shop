@@ -1,0 +1,11 @@
+<!ENTITY labelSuccess "Спасибо! Запрос получен, в ближайшее время Вам будет дан ответ.">
+<!ENTITY labelError0 "Вы неверно ввели число подтверждения отправки формы!">
+<!ENTITY labelError1 "Заполните все обязательные поля!">
+<!ENTITY labelError2 "Прошло слишком мало времени с момента последней отправки Вами формы!">
+<!ENTITY labelError3 "Ошибка! Форма не может быть обработана!">
+<!ENTITY labelError4 "Ошибка! Неверный CSRF-токен!">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelField "Заполните поле">
+<!ENTITY labelValue "Выберите, пожалуйста, значение.">
+<!ENTITY labelEnterNumber "Введите число, которое указано выше.">

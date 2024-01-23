@@ -1,0 +1,12 @@
+<!ENTITY labelCreate "Create">
+<!ENTITY labelEdit "Edit">
+<!ENTITY labelTopic "topic">
+<!ENTITY labelForumsList "Forums list">
+<!ENTITY labelSubject "Subject:">
+<!ENTITY labelAnnouncement "Announcement">
+<!ENTITY labelClosed "Closed">
+<!ENTITY labelVisible "Visible">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelAdd "Add">
+<!ENTITY labelEnterNumber "Введите число, которое указано выше.">

@@ -1,0 +1,5 @@
+<!ENTITY labelShopPaymentSystemLine1 "There are no payment systems!">
+<!ENTITY labelShopPaymentSystemLine2 "Checkout is not possible, contact the store.">
+<!ENTITY labelPayForm "Pay Form">
+<!ENTITY labelDescription "Description">
+<!ENTITY labelSendOrder "Send order">

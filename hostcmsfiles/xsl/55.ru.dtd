@@ -1,0 +1,19 @@
+<!ENTITY labelTag "Метка — ">
+<!ENTITY labelSortBy "Сортировать">
+<!ENTITY labelSortByPriceLowToHigh "По цене (сначала дешевые)">
+<!ENTITY labelSortByPriceHighToLow "По цене (сначала дорогие)">
+<!ENTITY labelSortByName "По названию">
+<!ENTITY labelPriceFrom "Цена от:">
+<!ENTITY labelPriceTo "до:">
+<!ENTITY labelComparingItems "Сравниваемые элементы">
+<!ENTITY labelCompare "Сравнить товары">
+<!ENTITY labelShow "Показать по:">
+<!ENTITY labelFavoriteItems "Мои избранные товары">
+<!ENTITY labelViewedItems "Просмотренные товары">
+<!ENTITY labelProducers "Производители">
+<!ENTITY labelBonuses "бонусов">
+<!ENTITY labelBuy "Купить">
+<!ENTITY labelAnyOption "Любой вариант">
+<!ENTITY labelFrom "от:">
+<!ENTITY labelTo "до:">
+<!ENTITY labelApply "Применить">

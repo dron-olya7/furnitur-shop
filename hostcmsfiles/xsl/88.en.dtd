@@ -1,0 +1,11 @@
+<!ENTITY labelGreetingCurator "Здравствуйте, куратор форума">
+<!ENTITY labelIntoForum "На форуме">
+<!ENTITY labelIntoForumTopic "в теме">
+<!ENTITY labelMessageTitleAnnouncement "было отредактировано сообщение c заголовком">
+<!ENTITY labelMessageTextAnnouncement "следующего содержания">
+<!ENTITY labelMessageAuthor "Автор сообщения">
+<!ENTITY labelForumModerator "модератор">
+<!ENTITY labelSiteuserEmail "E-mail">
+<!ENTITY labelSiteuserIp "IP">
+<!ENTITY labelEditor "Редактор сообщения">
+<!ENTITY labelHostcms "Content Management System HostCMS">

@@ -1,0 +1,32 @@
+<!ENTITY labelViewedItems "Viewed items">
+<!ENTITY labelMarking "Marking:">
+<!ENTITY labelProducer "Producer:">
+<!ENTITY labelWeight "Weight:">
+<!ENTITY labelRest "Rest:">
+<!ENTITY labelReserve "Reserve:">
+<!ENTITY labelDigital0 "Электронный товар закончился.">
+<!ENTITY labelDigital1 "Электронный товар доступен для заказа.">
+<!ENTITY labelWarehouseRest "Warehouse rest:">
+<!ENTITY labelSizes "Sizes:">
+<!ENTITY labelAttributes "Attributes">
+<!ENTITY labelModifiations "Modifiations">
+<!ENTITY labelTying "Tying items">
+<!ENTITY labelReviews "Reviews">
+<!ENTITY labelAddReview "Add review">
+<!ENTITY labelName "Name">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelPhone "Phone">
+<!ENTITY labelSubject "Subject">
+<!ENTITY labelReview "Review">
+<!ENTITY labelGrade "Grade">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelNominative "view">
+<!ENTITY labelGenitiveSingular "views">
+<!ENTITY labelGenitivePlural "views">
+<!ENTITY labelAddIntoCart "Add into cart">
+<!ENTITY labelLike "Like">
+<!ENTITY labelDislike "Dislike">
+<!ENTITY labelReply "reply">
+<!ENTITY labelCommentLink "Comment link">
+<!ENTITY labelPublish "Publish">

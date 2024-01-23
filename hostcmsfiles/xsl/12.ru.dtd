@@ -1,0 +1,16 @@
+<!ENTITY labelReviews "Комментарии">
+<!ENTITY labelAddReviews "Добавить комментарий">
+<!ENTITY labelCommentName "Имя">
+<!ENTITY labelCommentEmail "E-mail">
+<!ENTITY labelCommentPhone "Телефон">
+<!ENTITY labelCommentSubject "Тема">
+<!ENTITY labelReview "Комментарий">
+<!ENTITY labelGrade "Оценка">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelNominative "просмотр">
+<!ENTITY labelGenitiveSingular "просмотра">
+<!ENTITY labelGenitivePlural "просмотров">
+<!ENTITY labelReply "ответить">
+<!ENTITY labelCommentLink "Ссылка на комментарий">
+<!ENTITY labelPublish "Опубликовать">

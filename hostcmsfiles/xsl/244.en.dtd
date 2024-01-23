@@ -1,0 +1,9 @@
+<!ENTITY labelMessageWrongUser "A user with these parameters is not registered or a letter cannot be sent to the specified e-mail.">
+<!ENTITY labelMessageWrongCsrf "The form is out of date, please refresh the page and log in again!">
+<!ENTITY labelRestoreTitle "Restore password">
+<!ENTITY labelLogin "Login:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelRestore "Restore">
+<!ENTITY labelNewPasswordTitle "Password recovery was successful">
+<!ENTITY labelNewPasswordTextLine1 "An email has been sent to you containing your new password.">
+<!ENTITY labelNewPasswordTextLine2 'If your browser supports automatic redirection after 3 seconds you will go to the page <a href="../">account</a>. If you don't want to wait, follow the link.'>

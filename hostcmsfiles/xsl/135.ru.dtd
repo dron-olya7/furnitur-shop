@@ -1,0 +1,5 @@
+<!ENTITY labelShopPaymentSystemLine1 "Отсутствуют платежные системы!">
+<!ENTITY labelShopPaymentSystemLine2 "Оформление заказа невозможно, свяжитесь с администрацией магазина.">
+<!ENTITY labelPayForm "Форма оплаты">
+<!ENTITY labelDescription "Описание">
+<!ENTITY labelSendOrder "Отправить заказ">

@@ -1,0 +1,10 @@
+<!ENTITY labelAddress "Address">
+<!ENTITY labelShipmentMethod "Shipment Method">
+<!ENTITY labelPaymentMethod "Payment Method">
+<!ENTITY labelOrderConfirmation "Order Confirmation">
+<!ENTITY labelLine1 "There are no payment systems!">
+<!ENTITY labelLine2 "Checkout is not possible, contact the store.">
+<!ENTITY labelDescription "Description">
+<!ENTITY labelPartiallyPay "Partial payment, the account amount is ">
+<!ENTITY labelNext "Next →">
+<!ENTITY labelForm "Payment Method">

@@ -1,0 +1,7 @@
+<!ENTITY labelSubject "Subject">
+<!ENTITY labelAmount "Amount">
+<!ENTITY labelText "Text">
+<!ENTITY labelPhoto "Photo">
+<!ENTITY labelFillField "Заполните поле Заголовок">
+<!ENTITY labelAddFile "Ещё файл...">
+<!ENTITY labelSave "Save">

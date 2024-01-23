@@ -1,0 +1,35 @@
+<!ENTITY labelForumsList "Forums list">
+<!ENTITY labelSubject "Subject:">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelAuthorization "Authorization">
+<!ENTITY labelWelcome "Welcome,">
+<!ENTITY labelRegistered "Registered user">
+<!ENTITY labelNewUser "New user">
+<!ENTITY labelError1 "Введен некорректный электронный адрес">
+<!ENTITY labelError2 "Пользователь с указанным электронным адресом зарегистрирован ранее">
+<!ENTITY labelError3 "Пользователь с указанным логином зарегистрирован ранее">
+<!ENTITY labelError4 "Заполните, пожалуйста, все обязательные параметры">
+<!ENTITY labelLogin "Login:">
+<!ENTITY labelPassword "Password:">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelEnter "Enter">
+<!ENTITY labelAccount "Account">
+<!ENTITY labelModerator "Moderator">
+<!ENTITY labelGuest "Guest">
+<!ENTITY labelRegistrationDate "Registration:">
+<!ENTITY labelQuote "Quote selected">
+<!ENTITY labelProfile "Profile">
+<!ENTITY labelCountMessages "Messages:">
+<!ENTITY labelDate "Date:">
+<!ENTITY labelEnterNumber "Введите число, которое указано выше.">
+<!ENTITY labelAddMessage "Add message">
+<!ENTITY labelSignUp "Sign up">
+<!ENTITY labelEdit "Edit">
+<!ENTITY labelDeleteTopicAlert "Вы уверены, что хотите удалить тему?">
+<!ENTITY labelDeleteMessageAlert "Вы уверены, что хотите удалить сообщение?">
+<!ENTITY labelDeleteTopic "Delete topic">
+<!ENTITY labelDelete "Delete">
+<!ENTITY labelAnswer "Answer">
+<!ENTITY labelUnsubscribe "Unsubscribe">
+<!ENTITY labelSubscribe "Subscribe">

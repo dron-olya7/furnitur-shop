@@ -1,0 +1,43 @@
+<!ENTITY labelLine1 "Быстрая регистрация">
+<!ENTITY labelLine2 "Какие преимущества дает регистрация на сайте?">
+<!ENTITY labelLine3 "Вы получаете возможность оформлять заказы прямо на сайте.">
+<!ENTITY labelLine4 "Вы будете получать информацию о специальных акциях магазина, доступных только зарегистрированным пользователям.">
+<!ENTITY labelForm "Заполнить форму регистрации">
+<!ENTITY labelData "Анкетные данные">
+<!ENTITY labelNewUser "Регистрация нового пользователя">
+<!ENTITY labelLine5 "Обратите внимание, введенные контактные данные будут доступны на странице пользователя неограниченному кругу лиц.">
+<!ENTITY labelRequired "Обязательные поля отмечены *.">
+<!ENTITY labelLogin "Логин">
+<!ENTITY labelPassword "Пароль">
+<!ENTITY labelPassword2 "Повтор пароля">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelName "Имя">
+<!ENTITY labelSurname "Фамилия">
+<!ENTITY labelPatronymic "Отчество">
+<!ENTITY labelCompany "Компания">
+<!ENTITY labelPhone "Телефон">
+<!ENTITY labelFax "Факс">
+<!ENTITY labelSite "Сайт">
+<!ENTITY labelICQ "ICQ">
+<!ENTITY labelCountry "Страна">
+<!ENTITY labelPostcode "Почтовый индекс">
+<!ENTITY labelCity "Город">
+<!ENTITY labelAddress "Адрес">
+<!ENTITY labelMaillist "Почтовые рассылки">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelChange "Изменить">
+<!ENTITY labelRegister "Зарегистрироваться">
+<!ENTITY labelText "Текст">
+<!ENTITY labelSubscribe "подписаться">
+<!ENTITY labelDeleteAlert "Вы уверены, что хотите удалить?">
+<!ENTITY labelMessageWrongCaptcha "Неправильно введен код подтверждения!">
+<!ENTITY labelMessageWrongEmail "Введен некорректный адрес электронной почты!">
+<!ENTITY labelMessageAntispam "Пользователь не может быть зарегистрирован, запрещенные данные!">
+<!ENTITY labelMessageRepeatPasswordIncorrect "Повтор пароля введен неверно!">
+<!ENTITY labelMessageUserWithEmailAlreadyExistst "Пользователь с указанным электронным адресом зарегистрирован ранее!">
+<!ENTITY labelMessageUserWithLoginAlreadyExists "Пользователь с указанным логином зарегистрирован ранее!">
+<!ENTITY labelMessageRequiredFieldsNotFilled "Заполните, пожалуйста, все обязательные параметры!">
+<!ENTITY labelMessageWrongCsrf "Форма устарела, обновите страницу и повторите вход!">
+<!ENTITY labelSuccessfulRegistration "<h1>Спасибо за регистрацию</h1><p>Для продолжения работы необходимо подтвердить регистрацию Ваших данных. В Ваш адрес отправлено письмо, содержащее ссылку для подтверждения регистрации.</p> <p>Если Ваш браузер поддерживает автоматическое перенаправление через 3 секунды Вы перейдете на страницу <a href=&#34;../&#34;>авторизации пользователя</a>.</p><script type=&#34;text/javascript&#34;>setTimeout(function(){ location = '../' }, 3000);</script>">
+<!ENTITY labelSuccessfulUpdate "<h1>Ваши анкетные данные успешно изменены</h1><p>Если Ваш браузер поддерживает автоматическое перенаправление через 3 секунды Вы перейдете в <a href=&#34;../&#34;>кабинет пользователя</a>.</p><script type=&#34;text/javascript&#34;>setTimeout(function(){ location = '../' }, 3000);</script>">

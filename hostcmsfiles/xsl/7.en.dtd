@@ -1,0 +1,9 @@
+<!ENTITY labelTitle "Added a new comment:">
+<!ENTITY labelAuthor "Author:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelSubject "Subject:">
+<!ENTITY labelReview "Review:">
+<!ENTITY labelInformationsystem "Section:">
+<!ENTITY labelDate "Date:">
+<!ENTITY labelIp "IP:">
+<!ENTITY labelHostcms "Content Management System HostCMS">

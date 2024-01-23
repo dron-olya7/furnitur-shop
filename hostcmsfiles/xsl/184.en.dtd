@@ -1,0 +1,9 @@
+<!ENTITY labelHelpdesk "Helpdesk">
+<!ENTITY labelAddMessage "Add message">
+<!ENTITY labelReply "reply">
+<!ENTITY labelAttachment "Attachment">
+<!ENTITY labelSubject "Subject">
+<!ENTITY labelText "Text">
+<!ENTITY labelAddFile "Add file">
+<!ENTITY labelMoreFile "More file …">
+<!ENTITY labelSend "Send">

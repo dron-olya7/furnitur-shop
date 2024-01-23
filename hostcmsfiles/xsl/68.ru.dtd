@@ -1,0 +1,10 @@
+<!ENTITY labelAddress "Адрес доставки">
+<!ENTITY labelShipmentMethod "Способ доставки">
+<!ENTITY labelPaymentMethod "Форма оплаты">
+<!ENTITY labelOrderConfirmation "Заказ оформлен">
+<!ENTITY labelLine1 "Отсутствуют платежные системы!">
+<!ENTITY labelLine2 "Оформление заказа невозможно, свяжитесь с администрацией магазина.">
+<!ENTITY labelDescription "Описание">
+<!ENTITY labelPartiallyPay "Частично оплатить с лицевого счета, на счету">
+<!ENTITY labelNext "Далее →">
+<!ENTITY labelForm "Форма оплаты">

@@ -1,0 +1,4 @@
+<!ENTITY labelAddress "Address">
+<!ENTITY labelShipmentMethod "Shipment Method">
+<!ENTITY labelPaymentMethod "Payment Method">
+<!ENTITY labelOrderConfirmation "Order Confirmation">

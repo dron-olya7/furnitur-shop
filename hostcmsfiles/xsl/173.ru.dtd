@@ -1,0 +1,10 @@
+<!ENTITY labelAmount "Цена:">
+<!ENTITY labelNegotiable "договорная">
+<!ENTITY labelYes "Есть">
+<!ENTITY labelNo "Нет">
+<!ENTITY labelWeight "Вес товара:">
+<!ENTITY labelRest "В наличии:">
+<!ENTITY labelProducer "Производитель:">
+<!ENTITY labelNominative "просмотр">
+<!ENTITY labelGenitiveSingular "просмотра">
+<!ENTITY labelGenitivePlural "просмотров">

@@ -1,0 +1,9 @@
+<!ENTITY labelHelpdesk "Служба поддержки">
+<!ENTITY labelAddMessage "Добавить сообщение">
+<!ENTITY labelReply "ответить">
+<!ENTITY labelAttachment "Прикрепленные файлы:">
+<!ENTITY labelSubject "Тема">
+<!ENTITY labelText "Текст сообщения">
+<!ENTITY labelAddFile "Прикрепить файл">
+<!ENTITY labelMoreFile "Еще файл …">
+<!ENTITY labelSend "Отправить">

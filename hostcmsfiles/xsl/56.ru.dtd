@@ -1,0 +1,32 @@
+<!ENTITY labelViewedItems "Просмотренные товары">
+<!ENTITY labelMarking "Артикул:">
+<!ENTITY labelProducer "Производитель:">
+<!ENTITY labelWeight "Вес товара:">
+<!ENTITY labelRest "В наличии:">
+<!ENTITY labelReserve "зарезервировано:">
+<!ENTITY labelDigital0 "Электронный товар закончился.">
+<!ENTITY labelDigital1 "Электронный товар доступен для заказа.">
+<!ENTITY labelWarehouseRest "На складе осталось:">
+<!ENTITY labelSizes "Размеры:">
+<!ENTITY labelAttributes "Атрибуты товара">
+<!ENTITY labelModifiations "Модификации">
+<!ENTITY labelTying "Сопутствующие товары">
+<!ENTITY labelReviews "Комментарии">
+<!ENTITY labelAddReview "Добавить комментарий">
+<!ENTITY labelName "Имя">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelPhone "Телефон">
+<!ENTITY labelSubject "Тема">
+<!ENTITY labelReview "Комментарий">
+<!ENTITY labelGrade "Оценка">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelNominative "просмотр">
+<!ENTITY labelGenitiveSingular "просмотра">
+<!ENTITY labelGenitivePlural "просмотров">
+<!ENTITY labelAddIntoCart "Добавить в корзину">
+<!ENTITY labelLike "Нравится">
+<!ENTITY labelDislike "Не нравится">
+<!ENTITY labelReply "ответить">
+<!ENTITY labelCommentLink "Ссылка на комментарий">
+<!ENTITY labelPublish "Опубликовать">

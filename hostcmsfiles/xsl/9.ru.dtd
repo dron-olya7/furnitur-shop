@@ -1,0 +1,22 @@
+<!ENTITY labelTagName "Метка">
+<!ENTITY labelAddItem "Добавить запись">
+<!ENTITY labelCommentName "ФИО">
+<!ENTITY labelCommentEmail "E-mail">
+<!ENTITY labelCommentSubject "Тема">
+<!ENTITY labelQuestion "Вопрос">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelButtonAddItem "Добавить запись">
+<!ENTITY labelDownloadFile "Скачать файл">
+<!ENTITY labelMonth1 "января">
+<!ENTITY labelMonth2 "февраля">
+<!ENTITY labelMonth3 "марта">
+<!ENTITY labelMonth4 "апреля">
+<!ENTITY labelMonth5 "мая">
+<!ENTITY labelMonth6 "июня">
+<!ENTITY labelMonth7 "июля">
+<!ENTITY labelMonth8 "августа">
+<!ENTITY labelMonth9 "сентября">
+<!ENTITY labelMonth10 "октября">
+<!ENTITY labelMonth11 "ноября">
+<!ENTITY labelMonth12 "декабря">

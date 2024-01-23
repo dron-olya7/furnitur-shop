@@ -1,0 +1,8 @@
+<!ENTITY labelTitle "Продавец">
+<!ENTITY labelContact "Контактное лицо:">
+<!ENTITY labelAddress "Адрес:">
+<!ENTITY labelPhone "Телефон:">
+<!ENTITY labelFax "Факс:">
+<!ENTITY labelSite "Сайт:">
+<!ENTITY labelEmail "E-Mail:">
+<!ENTITY labelTIN "ИНН:">

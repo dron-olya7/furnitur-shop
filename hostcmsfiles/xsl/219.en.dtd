@@ -1,0 +1,8 @@
+<!ENTITY labelProducer "Producer">
+<!ENTITY labelAddress "Address:">
+<!ENTITY labelPhone "Phone:">
+<!ENTITY labelFax "Fax:">
+<!ENTITY labelSite "Site:">
+<!ENTITY labelEmail "E-Mail:">
+<!ENTITY labelINN "TIN:">
+<!ENTITY labelAllItems "All items">

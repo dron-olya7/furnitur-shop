@@ -1,0 +1,20 @@
+<!ENTITY labelEmptyCart "В корзине нет ни одного товара.">
+<!ENTITY labelChooseProduct "Для оформления заказа добавьте товар в корзину.">
+<!ENTITY labelTitle "Моя корзина">
+<!ENTITY labelOrder "Для оформления заказа, нажмите <b>«Оформить заказ»</b>.">
+<!ENTITY labelTotal "Всего:">
+<!ENTITY labelCoupon "Купон:">
+<!ENTITY labelPostponeItems "Отложенные товары">
+<!ENTITY labelRecount "Пересчитать">
+<!ENTITY labelCheckout "Оформить заказ">
+<!ENTITY labelItem "Товар">
+<!ENTITY labelQuantity "Кол-во">
+<!ENTITY labelUnitPrice "Цена">
+<!ENTITY labelAmount "Сумма">
+<!ENTITY labelWarehouse "Склад">
+<!ENTITY labelPostpone "Отложить">
+<!ENTITY labelActions "Действия">
+<!ENTITY labelTotal2 "Итого:">
+<!ENTITY labelDelete "Удалить">
+<!ENTITY labelDelete2 "Удалить товар из корзины">
+<!ENTITY labelDeleteAlert "Вы уверены, что хотите удалить?">

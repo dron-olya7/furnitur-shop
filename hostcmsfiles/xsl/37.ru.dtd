@@ -1,0 +1,29 @@
+<!ENTITY labelForums "Форумы">
+<!ENTITY labelMyMessages "Мои сообщения">
+<!ENTITY labelLastUser "Последний зарегистрированный пользователь:">
+<!ENTITY labelAuthorization "Авторизация">
+<!ENTITY labelWelcome "Добро пожаловать,">
+<!ENTITY labelError1 "Введен некорректный электронный адрес">
+<!ENTITY labelError2 "Пользователь с указанным электронным адресом зарегистрирован ранее">
+<!ENTITY labelError3 "Пользователь с указанным логином зарегистрирован ранее">
+<!ENTITY labelError4 "Заполните, пожалуйста, все обязательные параметры">
+<!ENTITY labelRegistered "Зарегистрированный пользователь">
+<!ENTITY labelNewUser "Новый пользователь">
+<!ENTITY labelLogin "Логин:">
+<!ENTITY labelPassword "Пароль:">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">
+<!ENTITY labelEnter "Войти">
+<!ENTITY labelAccount "Кабинет пользователя">
+<!ENTITY labelFrom "от">
+<!ENTITY labelGuest "Гость">
+<!ENTITY labelNone "Нет сообщений">
+<!ENTITY labelLastMessage "Последнее сообщение">
+<!ENTITY labelSubjects "Тем">
+<!ENTITY labelMessages "Сообщений">
+<!ENTITY labelSignUp "Зарегистрироваться">
+<!ENTITY labelForumLockedNew "Закрытый форум с новыми сообщениями">
+<!ENTITY labelForumLocked "Закрытый форум без новых сообщений">
+<!ENTITY labelForumNew "Открытый форум с новыми сообщениями">
+<!ENTITY labelForum "Открытый форум без новых сообщений">

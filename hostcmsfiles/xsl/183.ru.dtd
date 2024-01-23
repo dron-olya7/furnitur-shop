@@ -1,0 +1,34 @@
+<!ENTITY labelHelpdesk "Служба поддержки">
+<!ENTITY labelTicketStatus "Cостояние запроса">
+<!ENTITY labelAny "Любой">
+<!ENTITY labelOpen "Открытый">
+<!ENTITY labelClose "Закрытый">
+<!ENTITY labelShow "Показать">
+<!ENTITY labelAddTicket "Написать запрос">
+<!ENTITY labelWorkSchedule "Режим работы">
+<!ENTITY labelTicket "Тикет">
+<!ENTITY labelSubject "Тема">
+<!ENTITY labelDate "Дата">
+<!ENTITY labelProcessed "Обработано">
+<!ENTITY labelStatus "Состояние">
+<!ENTITY labelNone "Обращений не найдено.">
+<!ENTITY labelIn "в">
+<!ENTITY labelTicketClose "Тикет закрыт">
+<!ENTITY labelWait "Ожидаем ваш ответ">
+<!ENTITY labelReplySoon "Скоро ответим …">
+<!ENTITY labelAnswer "Ответим в течение">
+<!ENTITY labelDay "дня">
+<!ENTITY labelDays "дней">
+<!ENTITY labelHour "часа">
+<!ENTITY labelHours "часов">
+<!ENTITY labelMinute "минуты">
+<!ENTITY labelMinutes "минут">
+<!ENTITY labelOpenTicket "Открыть запрос">
+<!ENTITY labelCloseTicket "Закрыть запрос">
+<!ENTITY labelCriticalityLevel "Уровень критичности">
+<!ENTITY labelCategory "Категория">
+<!ENTITY labelText "Текст сообщения">
+<!ENTITY labelSendMail "Отсылать ответы на e-mail">
+<!ENTITY labelAddFile "Прикрепить файл">
+<!ENTITY labelMoreFile "Еще файл …">
+<!ENTITY labelSend "Отправить">

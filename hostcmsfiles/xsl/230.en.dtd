@@ -1,0 +1,9 @@
+<!ENTITY labelSorting "Sorting">
+<!ENTITY labelSorting1 "By price (ASC)">
+<!ENTITY labelSorting2 "By price (DESC)">
+<!ENTITY labelSorting3 "By name">
+<!ENTITY labelPriceFrom "Price from:">
+<!ENTITY labelPriceTo "to:">
+<!ENTITY labelAny "Any option">
+<!ENTITY labelFrom "from:">
+<!ENTITY labelTo "to:">

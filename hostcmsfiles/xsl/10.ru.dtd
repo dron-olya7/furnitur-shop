@@ -1,0 +1,8 @@
+<!ENTITY labelTagName "Метка">
+<!ENTITY labelAddItem "Добавить запись">
+<!ENTITY labelCommentName "ФИО">
+<!ENTITY labelCommentEmail "E-mail">
+<!ENTITY labelCommentSubject "Тема">
+<!ENTITY labelCommentText "Текст сообщения">
+<!ENTITY labelUpdateCaptcha "Показать другое число">
+<!ENTITY labelCaptchaId "Контрольное число">

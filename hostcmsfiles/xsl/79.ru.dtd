@@ -1,0 +1,9 @@
+<!ENTITY labelMyCart "Моя корзина">
+<!ENTITY labelEmptyCart "Корзина пуста">
+<!ENTITY labelChooseProduct "Выберите товар и добавьте его в корзину.">
+<!ENTITY labelInCart "В корзине">
+<!ENTITY labelSum "на сумму">
+<!ENTITY labelLink "Перейти в корзину">
+<!ENTITY labelNominative "товар">
+<!ENTITY labelGenitiveSingular "товара">
+<!ENTITY labelGenitivePlural "товаров">

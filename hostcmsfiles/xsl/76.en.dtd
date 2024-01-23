@@ -1,0 +1,29 @@
+<!ENTITY labelTitle1 "В магазине">
+<!ENTITY labelTitle2 "был оформлен">
+<!ENTITY labelTitle3 "заказ">
+<!ENTITY labelCode "Номер">
+<!ENTITY labelItemName "Наименование">
+<!ENTITY labelMarking "Артикул">
+<!ENTITY labelQuantity "Кол-во">
+<!ENTITY labelPrice "Цена">
+<!ENTITY labelSum "Сумма">
+<!ENTITY labelTotal "Итого:">
+<!ENTITY labelNone "Заказанных товаров нет">
+<!ENTITY labelDigitalItems "Данные об электронных товарах:">
+<!ENTITY labelHostcms "Система управления сайтом HostCMS">
+<!ENTITY labelCompany "Компания:">
+<!ENTITY labelName "ФИО:">
+<!ENTITY labelPhone "Телефон:">
+<!ENTITY labelFax "Факс:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelStatus "Статус:">
+<!ENTITY labelAddress "Адрес:">
+<!ENTITY labelDelivery "Тип доставки:">
+<!ENTITY labelPaymentSystem "Способ оплаты:">
+<!ENTITY labelPaymentStatus "Статус оплаты:">
+<!ENTITY labelPaid "оплачено">
+<!ENTITY labelNotPaid "не оплачено">
+<!ENTITY labelDescription "Описание заказа:">
+<!ENTITY labelSystemInfo "Системная информация:">
+<!ENTITY labelDigitalItemText "Текст электронного товара:">
+<!ENTITY labelDownloadFile "Скачать файл">

@@ -1,0 +1,109 @@
+<main class="content">
+	<div class="container">
+		<div class="breadcrumbs"><?php
+		// Вывод строки навигации
+		$Structure_Controller_Breadcrumbs = new Structure_Controller_Breadcrumbs(
+				Core_Entity::factory('Site', CURRENT_SITE)
+			);
+
+		$Structure_Controller_Breadcrumbs
+			->xsl(
+				Core_Entity::factory('Xsl')->getByName('ХлебныеКрошкиНовыйСайт2')
+			)
+			->show();
+		?></div>
+
+		<div class="row">
+			<div class="col-12 col-md-3">
+				<?php
+				$Structure_Controller_Show = new Structure_Controller_Show(
+					Core_Entity::factory('Site', CURRENT_SITE));
+
+				$oStructure = Core_Page::instance()->structure;
+
+				while ($oStructure->parent_id != 0)
+				{
+					$oStructure = $oStructure->getParent();
+				}
+
+				$Structure_Controller_Show->xsl(
+					Core_Entity::factory('Xsl')->getByName('ЛевоеМенюКабинетСайт2')
+				)
+					->menu(3)
+					->parentId($oStructure->id);
+
+				if (Core::moduleIsActive('siteuser'))
+				{
+					$oSiteuser = Core_Entity::factory('Siteuser')->getCurrent();
+
+					$Structure_Controller_Show->addEntity(
+						$oAccountEntity = Core::factory('Core_Xml_Entity')
+							->name('siteuser_id')
+							->value(!is_null($oSiteuser) ? $oSiteuser->id : 0)
+					);
+				}
+
+				$Structure_Controller_Show->show();
+
+				// Account info
+				if (Core::moduleIsActive('siteuser'))
+				{
+					$oSiteuser = Core_Entity::factory('Siteuser')->getCurrent();
+
+					if(!is_null($oSiteuser))
+					{
+						$Siteuser_Controller_Show = new Siteuser_Controller_Show(
+							$oSiteuser
+						);
+
+						$Siteuser_Controller_Show
+							->xsl(
+								Core_Entity::factory('Xsl')->getByName('ИнформацияОПользователеСайт2')
+							);
+
+						if (Core::moduleIsActive('shop'))
+						{
+							$aShops = Core_Entity::factory('Shop')->getAllBySite_id(CURRENT_SITE);
+
+							/* Лицевой счет */
+							$Siteuser_Controller_Show->addEntity(
+								$oAccountEntity = Core::factory('Core_Xml_Entity')
+									->name('account')
+							);
+
+							if (count($aShops))
+							{
+								foreach ($aShops as $oShop)
+								{
+									$amount = $oSiteuser->getTransactionsAmount($oShop);
+
+									$aBonuses = $oSiteuser->getBonuses($oShop);
+
+									$oShop->addEntity(
+										Core::factory('Core_Xml_Entity')
+											->name('transaction_amount')
+											->value($amount)
+									)->addEntity(
+										Core::factory('Core_Xml_Entity')
+											->name('bonuses_amount')
+											->value($aBonuses['total'])
+									);
+
+									$oAccountEntity->addEntity(
+										$oShop
+									);
+								}
+							}
+						}
+
+						$Siteuser_Controller_Show->show();
+					}
+				}
+				?>
+			</div>
+			<div class="col-12 col-md-9">
+				<?php Core_Page::instance()->execute(); ?>
+			</div>
+		</div>
+	</div>
+</main>

@@ -1,0 +1,34 @@
+<!ENTITY labelHelpdesk "Helpdesk">
+<!ENTITY labelTicketStatus "Ticket status">
+<!ENTITY labelAny "Any">
+<!ENTITY labelOpen "Open">
+<!ENTITY labelClose "Close">
+<!ENTITY labelShow "Show">
+<!ENTITY labelAddTicket "Add ticket">
+<!ENTITY labelWorkSchedule "Work schedule">
+<!ENTITY labelTicket "Ticket">
+<!ENTITY labelSubject "Subject">
+<!ENTITY labelDate "Date">
+<!ENTITY labelProcessed "Processed">
+<!ENTITY labelStatus "Status">
+<!ENTITY labelNone "Tikets not found.">
+<!ENTITY labelIn "in">
+<!ENTITY labelTicketClose "Ticket close">
+<!ENTITY labelWait "Waiting for your answer">
+<!ENTITY labelReplySoon "Coming soon …">
+<!ENTITY labelAnswer "Response within">
+<!ENTITY labelDay "day">
+<!ENTITY labelDays "days">
+<!ENTITY labelHour "hour">
+<!ENTITY labelHours "hours">
+<!ENTITY labelMinute "minute">
+<!ENTITY labelMinutes "minutes">
+<!ENTITY labelOpenTicket "Open ticket">
+<!ENTITY labelCloseTicket "Close ticket">
+<!ENTITY labelCriticalityLevel "Criticality level">
+<!ENTITY labelCategory "Category">
+<!ENTITY labelText "Text">
+<!ENTITY labelSendMail "Send answers to e-mail">
+<!ENTITY labelAddFile "Attach file">
+<!ENTITY labelMoreFile "More file …">
+<!ENTITY labelSend "Send">

@@ -1,0 +1,7 @@
+<!ENTITY labelLine1 "Здравствуйте,">
+<!ENTITY labelLine2 "Информация о регистрации на сайте:">
+<!ENTITY labelLogin "Login:">
+<!ENTITY labelPassword "Пароль: Тот, который вы указали при регистрации.">
+<!ENTITY labelLink1 "Для подтверждения регистрации перейдите по ссылке:">
+<!ENTITY labelLink2 "Для отмены регистрации перейдите по ссылке:">
+<!ENTITY labelAdministration "С уважением, администрация сайта.">

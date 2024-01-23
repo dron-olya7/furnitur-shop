@@ -1,0 +1,19 @@
+<!ENTITY labelDownload "Download">
+<!ENTITY labelReadMore "Read more:">
+<!ENTITY labelReviews "Reviews">
+<!ENTITY labelAddReview "Add review">
+<!ENTITY labelReply "reply">
+<!ENTITY labelReviewLink "Review link">
+<!ENTITY labelCommentName "Name">
+<!ENTITY labelCommentEmail "E-mail">
+<!ENTITY labelCommentPhone "Phone">
+<!ENTITY labelCommentSubject "Subject">
+<!ENTITY labelReview "Review">
+<!ENTITY labelGrade "Grade">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelDownloadFile "Download file">
+<!ENTITY labelNominative "view">
+<!ENTITY labelGenitiveSingular "views">
+<!ENTITY labelGenitivePlural "views">
+<!ENTITY labelPublish "Publish">

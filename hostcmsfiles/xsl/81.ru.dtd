@@ -1,0 +1,9 @@
+<!ENTITY labelAddress "Адрес доставки">
+<!ENTITY labelShipmentMethod "Способ доставки">
+<!ENTITY labelPaymentMethod "Форма оплаты">
+<!ENTITY labelOrderConfirmation "Заказ оформлен">
+<!ENTITY labelDeliveryAddress "Адрес доставки">
+<!ENTITY labelDeliveryMethod "Способ доставки">
+<!ENTITY labelFormPayment "Способ доставки">
+<!ENTITY labelDeliveryDetails "Данные доставки">
+<!ENTITY labelTitleBlank "Ваш заказ оформлен">

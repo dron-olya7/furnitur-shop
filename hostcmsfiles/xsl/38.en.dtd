@@ -1,0 +1,45 @@
+<!ENTITY labelForumsList "Forums list">
+<!ENTITY labelModerator1 "Только модераторы могут создавать темы и оставлять сообщения.">
+<!ENTITY labelModerator0 "Только зарегистрированные пользователи могут создавать темы и оставлять сообщения.">
+<!ENTITY labelAddTopic "Add topic">
+<!ENTITY labelMyPosts "My posts">
+<!ENTITY labelSubject "Subject">
+<!ENTITY labelAuthor "Author">
+<!ENTITY labelAnswers "Answers">
+<!ENTITY labelLastMessage "Last message">
+<!ENTITY labelAction "Action">
+<!ENTITY labelModerators "Moderators:">
+<!ENTITY labelNo "no.">
+<!ENTITY labelAuthorization "Authorization">
+<!ENTITY labelWelcome "Welcome,">
+<!ENTITY labelRegistered "Registered user">
+<!ENTITY labelNewUser "New user">
+<!ENTITY labelLogin "Login:">
+<!ENTITY labelPassword "Password:">
+<!ENTITY labelEmail "E-mail">
+<!ENTITY labelUpdateCaptcha "Refresh">
+<!ENTITY labelCaptchaId "Captcha">
+<!ENTITY labelEnter "Enter">
+<!ENTITY labelAccount "Account">
+<!ENTITY labelGuest "Guest">
+<!ENTITY labelSignUp "Зарегистрироваться">
+<!ENTITY labelThemeLockedNew "Закрытая тема с непрочитанными сообщениями">
+<!ENTITY labelThemeLocked "Закрытая тема без непрочитанных сообщений">
+<!ENTITY labelThemeNoticeNew "Открытое объявление с непрочитанными сообщениями">
+<!ENTITY labelThemeNotice "Открытое объявление без непрочитанных сообщений">
+<!ENTITY labelThemeNoticeCloseNew "Закрытое объявление с непрочитанными сообщениями">
+<!ENTITY labelThemeNoticeClose "Закрытое объявление без непрочитанных сообщений">
+<!ENTITY labelThemeNew "Тема с непрочитанными сообщениями">
+<!ENTITY labelTheme "Тема без непрочитанных сообщений">
+<!ENTITY labelThemeVisibleButton "Сделать видимой">
+<!ENTITY labelShow "Show">
+<!ENTITY labelThemeInvisibleButton "Сделать невидимой">
+<!ENTITY labelHide "Hide">
+<!ENTITY labelThemeNoticeButton "Сделать объявлением">
+<!ENTITY labelNotice "Notice">
+<!ENTITY labelThemeNormalButton "Сделать обычной темой">
+<!ENTITY labelNormal "Normal">
+<!ENTITY labelUnlock "Unlock">
+<!ENTITY labelEdit "Edit">
+<!ENTITY labelDeleteAlert "Вы уверены, что хотите удалить тему?">
+<!ENTITY labelDelete "Delete">

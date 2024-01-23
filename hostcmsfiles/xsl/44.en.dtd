@@ -1,0 +1,14 @@
+<!ENTITY labelLine1 "Здравствуйте, куратор форума">
+<!ENTITY labelLine2-1 "On">
+<!ENTITY labelLine2-2 "closed">
+<!ENTITY labelLine2-3 "forum">
+<!ENTITY labelLine3 "была создана новая">
+<!ENTITY labelOpened "opened">
+<!ENTITY labelClosed "closed">
+<!ENTITY labelAnnouncement "announcement">
+<!ENTITY labelInvisible "invisible">
+<!ENTITY labelVisible "visible">
+<!ENTITY labelTopic "topic:">
+<!ENTITY labelAuthor "Topic author:">
+<!ENTITY labelModerator "moderator">
+<!ENTITY labelHostcms "Content Management System HostCMS">

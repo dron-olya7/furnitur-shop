@@ -1,0 +1,19 @@
+<!ENTITY labelAddress "Address">
+<!ENTITY labelShipmentMethod "Shipment Method">
+<!ENTITY labelPaymentMethod "Payment Method">
+<!ENTITY labelOrderConfirmation "Order Confirmation">
+<!ENTITY labelCountry "Country:">
+<!ENTITY labelRegion "Region:">
+<!ENTITY labelCity "City:">
+<!ENTITY labelDistrict "District:">
+<!ENTITY labelPostcode "Postcode:">
+<!ENTITY labelAddressLine1 "Address">
+<!ENTITY labelAddressLine2 "(city if not selected)">
+<!ENTITY labelName "Surname, Name, Patronymic:">
+<!ENTITY labelCompany "Company:">
+<!ENTITY labelPhone "Phone:">
+<!ENTITY labelFax "Fax:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelReview "Review:">
+<!ENTITY labelAnyOption "Any option">
+<!ENTITY labelNext "Next →">

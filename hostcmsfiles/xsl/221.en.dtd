@@ -1,0 +1,9 @@
+<!ENTITY labelTitle "Партнерские программы">
+<!ENTITY labelNone "Партнерские программы на текущий момент отсутствуют.">
+<!ENTITY labelShop "Магазин">
+<!ENTITY labelAffiliatePlan "Партнерская программа">
+<!ENTITY labelMinQuantity "Минимальное количество купленного товара:">
+<!ENTITY labelMinAmount "Минимальная сумма купленного товара">
+<!ENTITY labelMinLevels "Уровни партнерской программы:">
+<!ENTITY labelLevel "Уровень">
+<!ENTITY labelLink "Партнерская ссылка:">

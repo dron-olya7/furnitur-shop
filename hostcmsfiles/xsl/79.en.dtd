@@ -1,0 +1,9 @@
+<!ENTITY labelMyCart "My Cart">
+<!ENTITY labelEmptyCart "Cart is Empty">
+<!ENTITY labelChooseProduct "Choose a product and add it to your cart.">
+<!ENTITY labelInCart "In the cart">
+<!ENTITY labelSum "total">
+<!ENTITY labelLink "View Cart">
+<!ENTITY labelNominative "item">
+<!ENTITY labelGenitiveSingular "items">
+<!ENTITY labelGenitivePlural "items">

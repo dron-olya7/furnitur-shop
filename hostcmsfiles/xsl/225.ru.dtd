@@ -1,0 +1,25 @@
+<!ENTITY labelTitle "Мои диалоги">
+<!ENTITY labelWrite "Написать сообщение">
+<!ENTITY labelReciever "Получатель">
+<!ENTITY labelSubject "Тема">
+<!ENTITY labelMessage "Сообщение">
+<!ENTITY labelSend "Отправить">
+<!ENTITY labelNone "У Вас нет сообщений!">
+<!ENTITY labelMonth1 "января">
+<!ENTITY labelMonth2 "февраля">
+<!ENTITY labelMonth3 "марта">
+<!ENTITY labelMonth4 "апреля">
+<!ENTITY labelMonth5 "мая">
+<!ENTITY labelMonth6 "июня">
+<!ENTITY labelMonth7 "июля">
+<!ENTITY labelMonth8 "августа">
+<!ENTITY labelMonth9 "сентября">
+<!ENTITY labelMonth10 "октября">
+<!ENTITY labelMonth11 "ноября">
+<!ENTITY labelMonth12 "декабря">
+<!ENTITY labelNominative "сообщение">
+<!ENTITY labelGenitiveSingular "сообщения">
+<!ENTITY labelGenitivePlural "сообщений">
+<!ENTITY labelAnswer "Ответить">
+<!ENTITY labelDeleteAlert "Вы уверены, что хотите Удалить?">
+<!ENTITY labelDelete "Удалить">

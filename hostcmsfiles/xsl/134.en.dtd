@@ -1,0 +1,20 @@
+<!ENTITY labelPaymentDetails "Payment details">
+<!ENTITY labelAmount "Amount:">
+<!ENTITY labelCountry "Country:">
+<!ENTITY labelRegion "Region:">
+<!ENTITY labelCity "City:">
+<!ENTITY labelDistrict "District:">
+<!ENTITY labelPostcode "Postcode:">
+<!ENTITY labelAddressLine1 "Address">
+<!ENTITY labelAddressLine2 "(city if not check)">
+<!ENTITY labelName "Surname, Name, Patronymic:">
+<!ENTITY labelCompany "Company:">
+<!ENTITY labelPhone "Phone:">
+<!ENTITY labelFax "Fax:">
+<!ENTITY labelEmail "E-mail:">
+<!ENTITY labelReview "Review:">
+<!ENTITY labelShopPaymentSystemLine1 "There are no payment systems!">
+<!ENTITY labelShopPaymentSystemLine2 "Checkout is not possible, contact the store.">
+<!ENTITY labelPayForm "Pay Form">
+<!ENTITY labelDescription "Description">
+<!ENTITY labelNext "Next →">
